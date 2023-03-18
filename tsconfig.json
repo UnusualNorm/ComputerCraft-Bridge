@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/node-lts-strictest-esm/tsconfig.json",
+  "compilerOptions": {
+    "declaration": true,
+    "inlineSourceMap": true,
+    "outDir": "dist/"
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules/", "dist/"]
+}

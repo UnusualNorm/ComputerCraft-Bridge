@@ -1,2 +1,3 @@
-# ComputerCraft-Bridge
-A simple library to command and control many ComputerCraft computers!
+# @unnusualnorm/ComputerCraft-Server
+
+A simple C&C server for ComputerCraft: Tweaked
